@@ -1,6 +1,8 @@
-# Vue的demo
+# Vue的模版
 
-> vue + router + vuex + webpack
+> vue + router + vuex + webpack  + iview
+> view 按需加载
+> pages页面结构化 + 组件化
 
 ## Build Setup
 
